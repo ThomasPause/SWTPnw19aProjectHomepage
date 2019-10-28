@@ -1,0 +1,10 @@
+# run `jekyll serve` from the master branch and then run this
+
+wget \
+ --recursive \
+ --no-clobber \
+ --page-requisites \
+ --html-extension \
+ --convert-links \
+ --domains localhost http://localhost:4000 \
+ -nH
