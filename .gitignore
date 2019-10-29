@@ -39,4 +39,5 @@ validation-report.json
 
 # Folders to ignore
 node_modules
-jekyll-cache
+.jekyll-cache
+.jekyll-metadata

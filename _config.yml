@@ -10,17 +10,21 @@ permalink:        pretty
 title:            nw19a
 tagline:          'Sofwaretechnik Praktikum'
 description:      'Webauftritt der SWTP Gruppe nw19a. Simulation von Poi-Figuren'
-url:              /
+url:              https://pcai042.informatik.uni-leipzig.de/~nw19a/Website
 baseurl:          /
+
+author:
+  name:         'Thomas Pause'
+  url:          https://github.com/ThomasPause
 
 # Custom vars
 
 webmaster:      "Thomas Pause"
 githubTP:       https://github.com/ThomasPause 
 
-paginate:         5
+# paginate:         5
 
-version:          2.1.0
+version:        0.1.0
 
 github:
   repo:         https://github.com/ThomasPause/SWTPnw19aProjectHomepage
