@@ -1,9 +1,13 @@
 ---
 layout: page
-title: 
+title:
 order: 5
 ---
 
-<center><img src="{{site.url}}{{ site.baseurl}}/public/800px-Feuerpoi.JPG"></center>
+# SWT-Praktikum 2019/20 Gruppe nw19a - Simulation von Poi-Figuren
+<br>
+<br>
 
+<center><img src="{{site.url}}{{ site.baseurl}}/public/Feuerpoi.JPG"></center>
 
+# Beschreibung der Aufgabenstellung
