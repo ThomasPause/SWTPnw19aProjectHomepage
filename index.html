@@ -19,6 +19,7 @@
   <link rel="stylesheet" href="public/css/poole.css">
   <link rel="stylesheet" href="public/css/syntax.css">
   <link rel="stylesheet" href="public/css/hyde.css">
+  <link rel="stylesheet" href="public/css/poi.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   <!-- Icons -->
@@ -33,10 +34,10 @@
   <body>
 
     <div class="sidebar">
+  <div id="poi-logo"/></div>
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-	<img src="http://public/Feuerpoi-Juggler.jpg" 
         <a href="index.html">
           nw19a
         </a>
@@ -57,7 +58,7 @@
       
         
           
-            <a class="sidebar-nav-item" href="about/index.html">About</a>
+            <a class="sidebar-nav-item" href="abgaben/index.html">Abgaben</a>
           
         
       
@@ -67,11 +68,21 @@
           
         
       
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="links/index.html">Links</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="team/index.html">Team</a>
+          
         
       
 
-      <a class="sidebar-nav-item" href="https://github.com/ThomasPause/SWTPnw19aProjectHomepage/archive/v0.1.0.zip">Download</a>
-      <a class="sidebar-nav-item" href="https://github.com/ThomasPause/SWTPnw19aProjectHomepage">GitHub project</a>
       <span class="sidebar-nav-item">Currently v0.1.0</span>
     </nav>
 
@@ -83,8 +94,28 @@
     <div class="content container">
       <div class="page">
   <h1 class="page-title"></h1>
-  <center><img src="public/800px-Feuerpoi.JPG" /></center>
+  <h1 id="swt-praktikum-201920-gruppe-nw19a---simulation-von-poi-figuren">SWT-Praktikum 2019/20 Gruppe nw19a - Simulation von Poi-Figuren</h1>
+<p><br />
+<br /></p>
 
+<center><img src="public/Feuerpoi.JPG" /></center>
+
+<h1 id="beschreibung-der-aufgabenstellung">Beschreibung der Aufgabenstellung</h1>
+<p>Ein Poi ist ein Kleingerät, bestehend aus einem Gewicht (Head), der an einer Schnur hängend in Rotation versetzt wird, um durch seine Flugbahn Figuren zu beschreiben. Im einfachsten Fall sind diese Figuren Rotationen auf einer Kreisbahn, also Figuren der Form (x(t),y(t)) = (r<em>cos(t), r</em>sin(t)). Es sind aber auch komplexere Figuren der Form (x(t),y(t)) = (r<em>cos(t)+q</em>cos(a<em>t), r</em>sin(t)+q<em>sin(a</em>t)), sogenannte Flowers, üblich.
+Im Rahmen des SWT-Praktikums sollen mathematischen Grundlagen erarbeitet werden, die es beim Poispiel erlauben nicht nur diese eingeschränkten geometrischen Muster zu spielen, sondern auch beliebige 2-dimensionale Figuren zu erzeugen, welche als geschossene Linienzüge in der Ebene beschrieben werden können.
+Ziel ist es dabei eine beliebige geometrische Figur in die dazu passende Arm- und Handbewegung des Poi-Spielers zu übersetzen.
+Für eine Applikation mit einem solchen Fundament als Basis ist es erstrebenswert, dass diese die Eingabe einer gewünschten Figur per Touchscreen oder Bild-Upload ermöglicht und dann die benötigten Bewegungen simuliert.</p>
+<h1 id="ziel">Ziel:</h1>
+<p>Aufgabe des Teams ist es, ein solches mathematisches Modell zu entwickeln und eine Simulationsumgebung zu implementieren, welche nach Möglichkeit auch physikalische Aspekte wie Gravitation und Luftwiderstand berücksichtigt. Die Umsetzung einer solchen Simulationsanwendung soll in Form einer (mobilen und/oder Web-) Applikation erfolgen.</p>
+
+<h1 id="lernziele">Lernziele:</h1>
+
+<ul>
+  <li>Kennenlernen und Weiterentwicklung von mathematischen Konzepte für durch Rotationen beschriebene 2-dimensionale Figuren, insbesondere der komplexen Fourier Analyse</li>
+  <li>Anwendung von Methoden zur Bildeingabe und Bildverarbeitung</li>
+  <li>Einarbeitung in ein geeignetes Framework zur graphischen Ein- und    Ausgabe auf mobilen Geräten bzw. im Browser</li>
+  <li>Implementierung einer Applikation</li>
+</ul>
 
 </div>
 

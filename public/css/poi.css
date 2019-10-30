@@ -1,0 +1,8 @@
+#poi-logo {
+  background-image:url("../poi-logo.jpg");
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;
+  height:20rem;
+  width:100%;
+}
