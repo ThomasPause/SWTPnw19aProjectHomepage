@@ -20,11 +20,11 @@ author:
 # Custom vars
 
 webmaster:      "Thomas Pause"
-githubTP:       https://github.com/ThomasPause 
+githubTP:       https://github.com/ThomasPause
 
 # paginate:         5
 
-version:        0.1.0
+version:        0.2.0
 
 github:
   repo:         https://github.com/ThomasPause/SWTPnw19aProjectHomepage
