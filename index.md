@@ -8,7 +8,7 @@ order: 5
 <br>
 <br>
 
-<center><img src="{{site.url}}{{ site.baseurl}}/public/Feuerpoi.JPG"></center>
+<center><img src="{{site.url}}{{ site.baseurl}}/public/Muster2.jpg"></center>
 
 # Beschreibung der Aufgabenstellung
 Ein Poi ist ein Kleingerät, bestehend aus einem Gewicht (Head), der an einer Schnur hängend in Rotation versetzt wird, um durch seine Flugbahn Figuren zu beschreiben. Im einfachsten Fall sind diese Figuren Rotationen auf einer Kreisbahn, also Figuren der Form (x(t),y(t)) = (r*cos(t), r*sin(t)). Es sind aber auch komplexere Figuren der Form (x(t),y(t)) = (r*cos(t)+q*cos(a*t), r*sin(t)+q*sin(a*t)), sogenannte Flowers, üblich.
@@ -24,3 +24,5 @@ Aufgabe des Teams ist es, ein solches mathematisches Modell zu entwickeln und ei
 * Anwendung von Methoden zur Bildeingabe und Bildverarbeitung
 * Einarbeitung in ein geeignetes Framework zur graphischen Ein- und    Ausgabe auf mobilen Geräten bzw. im Browser
 * Implementierung einer Applikation
+
+<center><img src="{{site.url}}{{ site.baseurl}}/public/Poi2.JPG"></center>
