@@ -4,9 +4,14 @@ title: Abgaben
 order: 20
 ---
 
-Abgabe A1.
+* 04.11.2019 - A1: <a href="{{site.url}}{{ site.baseurl}}/Abgaben/A1_nw19a.zip" download>Risikoanalyse</a>
 
-* <a href="{{site.url}}{{ site.baseurl}}/Abgaben/A1_nw19a.zip" download>A1_nw19a.zip (4.11.2019)</a>
+<div class="embed-container">
+    <iframe width="560" height="315" src="{{site.url}}{{ site.baseurl}}/Abgaben/RA.pdf" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+
+* 11.11.2019 - A2: Recherchebericht
 
 ---
 
