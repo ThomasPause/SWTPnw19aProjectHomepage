@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-order: 10
+order: 2
 ---
 
 # Das Projektteam
