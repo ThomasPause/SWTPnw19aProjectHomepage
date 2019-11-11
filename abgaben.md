@@ -11,8 +11,11 @@ order: 3
 </div>
 <br>
 
-* 11.11.2019 - A2: Recherchebericht
+* 11.11.2019 - A2: <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/A2_nw19a.zip" download>Recherchebericht</a>
+
+<div class="embed-container">
+    <iframe width="560" height="315" src="{{site.url}}{{ site.baseurl}}/public/Abgaben/RB.pdf" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
 
 ---
-
-<center><img src="{{site.url}}{{ site.baseurl}}/public/Poi1.JPG"></center>
