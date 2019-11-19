@@ -17,13 +17,9 @@ order: 5
   * <a href="{{site.url}}{{ site.baseurl}}/public/paper2.pdf" download>Paper2</a>
   * <a href="{{site.url}}{{ site.baseurl}}/public/paper3.pdf" download>Paper3</a>
 
-## Links zu Tutorials
-* [LearnXinYminutes, eine nette Tutorialsammlung für alles mögliche](https://learnxinyminutes.com/)
-* [AngularJS Tutorial deutsch](https://angular.de/artikel/angularjs-tutorial-deutsch/)
-* [AngularJS, das Original](https://angularjs.org/)
-* [ionic](https://ionicframework.com/)
-* [oimo.js, eine leichte Physicsengine, evtl trotzdem zu viel..](https://github.com/lo-th/Oimo.js/)
-
+## Projekt-Links
+* [GitLab-Repo](https://git.informatik.uni-leipzig.de/swp19/nw19a)
+* [OPAL-Lernplattform](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/21306114049/BusinessGroup/21375352845?1)
 ---
 
 <center><img src="{{site.url}}{{ site.baseurl}}/public/Muster1.jpg"></center>
