@@ -20,6 +20,7 @@ order: 5
 ## Projekt-Links
 * [GitLab-Repo](https://git.informatik.uni-leipzig.de/swp19/nw19a)
 * [OPAL-Lernplattform](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/21306114049/BusinessGroup/21375352845?1)
+
 ---
 
 <center><img src="{{site.url}}{{ site.baseurl}}/public/Muster1.jpg"></center>
