@@ -25,4 +25,11 @@ order: 3
 </div>
 <br>
 
+* 09.12.2019 - A3.1: <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/LH_ver2.pdf" download>Lastenheft (überarbeitete Version)</a>
+
+<div class="embed-container">
+    <iframe width="560" height="315" src="{{site.url}}{{ site.baseurl}}/public/Abgaben/LH_ver2.pdf" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+
 ---
