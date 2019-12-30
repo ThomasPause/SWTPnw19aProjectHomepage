@@ -7,10 +7,10 @@ order: 5
 # Recherche
 ### Diese Sammlung erhebt keinen Anspruch auf Vollständigkeit, sie soll nur Anreiz bieten zur eigenen Recherche!!
 ## Links zur Theorie (von Nic)
-* [stackexchange Beitrag](https://mathematica.stackexchange.com/questions/171755/how-can-i-draw-a-homer-with-epicycloids)
-* [Video1](https://www.youtube.com/watch?v=r6sGWTCMz2k)
-* [Video2](https://www.youtube.com/watch?v=ar5RikwRn00)
-* [drexfactor](https://drexfactor.com/reference/poi_spinning_and_geometry)
+* <a target="_blank" rel="noopener noreferrer" href="https://mathematica.stackexchange.com/questions/171755/how-can-i-draw-a-homer-with-epicycloids">stackexchange Beitrag</a>
+* <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=r6sGWTCMz2k">Video1</a>
+* <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=ar5RikwRn00">Video2</a>
+* <a target="_blank" rel="noopener noreferrer" href="https://drexfactor.com/reference/poi_spinning_and_geometry">drexfactor</a>
 
 * Papers zum Download:
   * <a href="{{site.url}}{{ site.baseurl}}/public/paper1.pdf" download>Paper1</a>
