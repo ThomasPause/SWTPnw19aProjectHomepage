@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Links
-order: 5
+order: 3
 ---
-<!-- Links-Page -->
+<!-- Links-Page-->
 # Recherche
 ### Diese Sammlung erhebt keinen Anspruch auf Vollständigkeit, sie soll nur Anreiz bieten zur eigenen Recherche!!
-## Links zur Theorie 
+## Links zur Theorie
 * <a target="_blank" rel="noopener noreferrer" href="https://mathematica.stackexchange.com/questions/171755/how-can-i-draw-a-homer-with-epicycloids">stackexchange Beitrag</a>
 * <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=r6sGWTCMz2k">Video1</a>
 * <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=ar5RikwRn00">Video2</a>

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Dokumente
-order: 3
+order: 5
 ---
-<!-- Abgaben-Page -->
+<!-- Dokumente-Page-->
 Hier sind alle abgegebenen Dokumente (aktuelle Versionen) zur Planung und Durchführung des Projektes aufgeführt
 
 * <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/RA.pdf" download>Risikoanalyse</a>
