@@ -3,7 +3,7 @@ layout: page
 title: Die oktopoi-App
 order: 7
 ---
-<!-- App-Page (Link to apk and Emulator) -->
+<!-- App-Page (Link to apk and Emulator)-->
 
 Zur Ansicht und zum Ausprobieren der oktopoi App haben wir folgenden Weg vorgesehen:
 

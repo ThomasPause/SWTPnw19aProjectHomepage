@@ -15,3 +15,5 @@ Hier finden sich alle Pflichtabgaben und Relesebündel als zip-Dateien zum Downl
 * 16.12.2019 - A4: <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/A4_nw19a.zip" download>Projektplan, Releaseplan, QS-Konzept</a>
 
 * 06.01.2020 - R1: <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/R1_nw19a.zip" download>Release 1: Vorprojekt</a>
+
+* 13.01.2020 - R1: <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/R1.1_nw19a.zip" download>Release 1.1: Nacharbeiten Vorprojekt</a>

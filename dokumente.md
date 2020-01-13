@@ -3,7 +3,7 @@ layout: page
 title: Dokumente
 order: 5
 ---
-<!-- Dokumente-Page-->
+<!-- Dokumente-Page -->
 Hier sind alle abgegebenen Dokumente (aktuelle Versionen) zur Planung und Durchführung des Projektes aufgeführt
 
 
@@ -49,7 +49,7 @@ Hier sind alle abgegebenen Dokumente (aktuelle Versionen) zur Planung und Durchf
 </div>
 <br>
 
-* <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/RB.zip" download>Recherchebericht</a>
+* <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/RB.pdf" download>Recherchebericht</a>
 
 <div class="embed-container">
     <iframe width="560" height="315" src="{{site.url}}{{ site.baseurl}}/public/Abgaben/RB.pdf" frameborder="0" allowfullscreen></iframe>
