@@ -17,3 +17,5 @@ Hier finden sich alle Pflichtabgaben und Relesebündel als zip-Dateien zum Downl
 * 06.01.2020 - R1: <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/R1_nw19a.zip" download>Release 1: Vorprojekt</a>
 
 * 13.01.2020 - R1: <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/R1.1_nw19a.zip" download>Release 1.1: Nacharbeiten Vorprojekt</a>
+
+* 27.01.2020 - R2: <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/R2_nw19a.zip" download>Release 2</a>

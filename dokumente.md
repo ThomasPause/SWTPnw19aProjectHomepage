@@ -6,6 +6,7 @@ order: 5
 <!-- Dokumente-Page -->
 Hier sind alle abgegebenen Dokumente (aktuelle Versionen) zur Planung und Durchführung des Projektes aufgeführt
 
+<!-- ToDo: add new EB, TB and RP -->
 
 * <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/Entwurfsbeschreibung.pdf" download>Entwurfsbeschreibung</a>
 
