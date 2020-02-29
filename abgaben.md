@@ -3,7 +3,7 @@ layout: page
 title: Abgaben/Releases
 order: 6
 ---
-<!-- Abgaben/Releases-Page -->
+<!--Abgaben/Releases-Page -->
 Hier finden sich alle Pflichtabgaben und Relesebündel als zip-Dateien zum Download
 
 * 04.11.2019 - A1: <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/A1_nw19a.zip" download>Risikoanalyse</a>
@@ -19,3 +19,5 @@ Hier finden sich alle Pflichtabgaben und Relesebündel als zip-Dateien zum Downl
 * 13.01.2020 - R1: <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/R1.1_nw19a.zip" download>Release 1.1: Nacharbeiten Vorprojekt</a>
 
 * 27.01.2020 - R2: <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/R2_nw19a.zip" download>Release 2</a>
+
+* 02.03.2020 - R3: <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/R3_nw19a.zip" download>Release 3</a>

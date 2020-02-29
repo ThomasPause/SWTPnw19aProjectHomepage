@@ -3,7 +3,7 @@ layout: page
 title: Dokumente
 order: 5
 ---
-<!-- Dokumente-Page -->
+<!--Dokumente-Page -->
 Hier sind alle abgegebenen Dokumente (aktuelle Versionen) zur Planung und Durchführung des Projektes aufgeführt
 
 <!-- ToDo: add new EB, TB and RP -->
