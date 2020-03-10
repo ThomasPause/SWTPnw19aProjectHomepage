@@ -13,4 +13,8 @@ Zur Ansicht und zum Ausprobieren der oktopoi App haben wir folgenden Weg vorgese
 
 VIEL SPAß ! ! !
 
-<center><img src="{{site.url}}{{ site.baseurl}}/public/oktopoi_logo.png"></center>
+<center><img src="{{site.url}}{{ site.baseurl}}/public/oktopoi_logo.jpg"></center>
+
+---
+
+<center><img src="{{site.url}}{{ site.baseurl}}/public/weired_livemode.jpg"></center>
