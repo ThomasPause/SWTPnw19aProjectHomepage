@@ -3,7 +3,7 @@ layout: page
 title: Poiphysik
 order: 4
 ---
-<!--Poiphysik-Page-->
+<!--Poiphysik-Page -->
 ### Hier befinden sich zwei von Bärbel Hanle zur Physik und Mathematik des Poi verfasste Paper zur Ansicht und zum Download:
 
 ### <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/CurveToHand.pdf" download>Download</a>

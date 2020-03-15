@@ -21,3 +21,5 @@ Hier finden sich alle Pflichtabgaben und Relesebündel als zip-Dateien zum Downl
 * 27.01.2020 - R2: <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/R2_nw19a.zip" download>Release 2</a>
 
 * 02.03.2020 - R3: <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/R3_nw19a.zip" download>Release 3</a>
+
+* 16.03.2020 - R4: <a href="{{site.url}}{{ site.baseurl}}/public/Abgaben/R4_nw19a.zip" download>Release 4</a>

@@ -3,7 +3,7 @@ layout: page
 title: Links
 order: 3
 ---
-<!--Links-Page-->
+<!--Links-Page -->
 # Recherche
 ### Diese Sammlung erhebt keinen Anspruch auf Vollständigkeit, sie soll nur Anreiz bieten zur eigenen Recherche!!
 ## Links zur Theorie
