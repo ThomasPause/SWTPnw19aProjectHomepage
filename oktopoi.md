@@ -11,7 +11,7 @@ Zur Ansicht und zum Ausprobieren der oktopoi App haben wir folgenden Weg vorgese
 * Dort auf RUN_APK klicken, warten bis der Emulator geladen ist und dann kann es los gehen
 * Als erstes den Bildschirm drehen
 
-VIEL SPAß ! ! !
+VIEL SPA&#x1E9E; ! ! !
 
 <center><img src="{{site.url}}{{ site.baseurl}}/public/oktopoi_logo.jpg"></center>
 
