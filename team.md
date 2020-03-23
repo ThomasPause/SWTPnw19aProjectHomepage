@@ -3,7 +3,7 @@ layout: page
 title: Team
 order: 2
 ---
-<!--Team-Page -->
+<!--Team-Page-->
 # Das Projektteam
 
 * Martin George
